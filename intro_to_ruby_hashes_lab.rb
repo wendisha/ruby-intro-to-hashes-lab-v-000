@@ -22,6 +22,7 @@ def monopoly_with_third_tier
 
 end
 
+
 def monopoly_with_fourth_tier
 	#copy and past the monopoly hash you build in the 
 	
